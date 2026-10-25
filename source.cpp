@@ -5,6 +5,6 @@ using namespace std;
 int main() {
 
 	cout << "Logishka!" << endl;
-	cout << 2 + 2;
+	cout << "Tamerlan";
 	return 0;
 }
